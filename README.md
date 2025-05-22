@@ -70,11 +70,3 @@ python3 -m unittest tests/test_validate.py
 MIT
 
 ````
-
-Now save it and commit:
-
-```bash
-git add README.md
-git commit -m "Add clean and formatted README"
-git push
-````
