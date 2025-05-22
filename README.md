@@ -71,8 +71,6 @@ MIT
 
 ````
 
----
-
 Now save it and commit:
 
 ```bash
