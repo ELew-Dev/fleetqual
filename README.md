@@ -44,7 +44,8 @@ python3 fleetqual.py --help
 
 * Python 3.10+
 * Linux (recommended)
-* [psutil](https://pypi.org/project/psutil/), [PyYAML](https://pypi.org/project/PyYAML/)
+* [psutil](https://pypi.org/project/psutil/)
+* [PyYAML](https://pypi.org/project/PyYAML/)
 
 Once `requirements.txt` is added:
 
