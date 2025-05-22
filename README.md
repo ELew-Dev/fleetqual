@@ -69,5 +69,3 @@ python3 -m unittest tests/test_validate.py
 ## 📜 License
 
 MIT
-
-````
